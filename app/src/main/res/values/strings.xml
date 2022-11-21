@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Data Mahasiswa</string>
+    <string name="delimeter">:</string>
+    <string name="masukkan_nama_mahasiswa">Masukkan Nama / NIM / PT Mahasiswa</string>
+    <string name="cari">Cari</string>
+    <string name="lihat_data_mahasiswa">Lihat Data Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="pt">PT</string>
+    <string name="prodi">Prodi</string>
+</resources>
